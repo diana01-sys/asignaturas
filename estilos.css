@@ -90,9 +90,11 @@ color:black;
 }
 .p_imag{
 display: block;
+margin: 15px auto;
 width: 250%;
 height:250px;
-box-shadow:8px
+box-shadow:8px 10px 12px 
+color: #CC7722;
 border-radius: 20px;
 }
 
