@@ -89,7 +89,12 @@ color:black;
     margin: 0;
 }
 .p_imag{
-     text-align:center;
+display: block;
+margin: 15px auto;
+width: 250%;
+height:250px;
+box-shadow:8px
+border-radius: 20px;
 }
 
 
