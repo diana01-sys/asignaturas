@@ -89,6 +89,7 @@ color:black;
     margin: 0;
 }
 .p_imag{
+object-fit: cover;
 display: block;
 margin: 15px auto;
 width: 250%;
