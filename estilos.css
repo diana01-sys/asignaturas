@@ -211,6 +211,29 @@ hr {
     vertical-align: top;
 }
 
+.f1c1 {
+    background-color: #F5EEDF;
+}
+
+.f1c2 {
+    background-color: #EDF0F5;
+}
+
+.f2c1 {
+    background-color: #EDF0F5;
+}
+
+.f2c2 {
+    background-color: #F5EEDF;
+}
+
+.f3c1 {
+    background-color: #F5EEDF;
+}
+
+.f3c2 {
+    background-color: #EDF0F5;
+}
 .tarjetas h3 {
     font-size: 20px;
     color: #171717;
@@ -269,9 +292,3 @@ hr {
     padding: 5px 10px 15px 10px;
     margin: 0;
 }
-@media screen and (max-width: 600px) {
-    .div_ppal {
-        width: 100%;
-        margin: 0 auto;
-        padding: 0;
-        border-radius: 0;
