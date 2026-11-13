@@ -121,8 +121,16 @@ box-shadow:8px 10px 12px;
 color:#CC7722;
 border-radius: 20px;
 }
-}
-
+.mensaje_inicio {
+    text-align: center;
+    color: #30335B;
+    background-color: #F5EEDF;
+    padding: 18px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px auto;
+    width: 90%;
+    border-radius: 13px;
 .acordion_1{
  text-align:left;
     color: #30335B;
@@ -184,14 +192,6 @@ hr {
     background-color: #D6A52B;
     width: 95%;
     margin: 20px auto;
-}
-
-.tarjetas {
-    width: 95%;
-    margin: 20px auto;
-    border-spacing: 10px;
-    border-collapse: separate;
-    table-layout: fixed;
 }
 
 
