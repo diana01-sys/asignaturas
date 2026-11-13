@@ -107,13 +107,21 @@ color:black;
 }
 .p_imag{
 object-fit: cover;
-width: 260px;
-height:260px;
+width: 255px;
+height:255px;
 box-shadow:8px 10px 12px; 
 color:#CC7722;
 border-radius: 20px;
 }
-
+.img_l{
+object-fit: cover;
+width: 280px;
+height:255px;
+box-shadow:8px 10px 12px; 
+color:#CC7722;
+border-radius: 20px;
+}
+}
 
 .mensaje_inicio {
     text-align: center;
